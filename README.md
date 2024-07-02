@@ -1,9 +1,10 @@
 ## Olá!! Meu nome é Diego Ramon 👋
 
-- 🔭 Desenvolvedor Full-Stack
-- 🌱 Atualmente me aprimorando em JAVA
+- 🎓 Formando em engenharia e voltado a desenvolvimento Full-Stack
+- 🔒 Apaixonado por segurança da informação
+- 📚 Atualmente me aprimorando em JAVA
 - 💬 Sou idealizador da ProSync, uma comunidade de t.i. de ajuda mútua entre os membros.
-- 📫 Sou apaixonado por tecnologia desde moleque, e pra mim é uma honra você está lendo isso aqui!
+- 💻 Sou apaixonado por tecnologia desde moleque, e pra mim é uma honra você está lendo isso aqui!
 - 😄 Falando sobre mim, gosto de ler, ouvir podcast, músicas e tenho uma gatinha chamada Bixby.
 
 
