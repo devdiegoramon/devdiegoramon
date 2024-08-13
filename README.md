@@ -1,6 +1,6 @@
 ## Olá!! Meu nome é Diego Ramon 👋
 
-- Sou um programador JAVA fullstack 
+- Sou um programador JAVA e ANGULAR
 
 - 🎓 Estudante de Engenharia e focado em Desenvolvimento Java
 - 🔒 Especializando em Segurança da Informação
