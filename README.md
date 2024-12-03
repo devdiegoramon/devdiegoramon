@@ -2,7 +2,7 @@
 
 - Sou um programador JAVA e ANGULAR
 
-- 🎓 Estudante de Engenharia e focado em Desenvolvimento Java
+- 🎓 Estudante do curso Sistemas para Internet e voltado a Desenvolvimento Java
 - 💬 Idealizador da ProSync, uma comunidade de T.I. de ajuda mútua entre os membros
 - 🎧 Gosto de ler, ouvir podcasts, músicas, e tenho uma gatinha chamada Bixby
 
