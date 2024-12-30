@@ -1,10 +1,10 @@
-## Olá!! Meu nome é Diego Ramon 👋
+## Hello!! My name is Diego Ramon 👋
 
-- 🧑‍💻 Desenvolvedor
+- 🧑‍💻 Developer
 
-- 🎓 Estudante do curso Sistemas para Internet e voltado a Desenvolvimento Java
-- 💬 Idealizador da ProSync, uma comunidade de T.I. de ajuda mútua entre os membros
-- 🎧 Gosto de ler, ouvir podcasts, músicas, e tenho uma gatinha chamada Bixby
+- 🎓 Student of Internet Systems, focused on Java Development  
+- 💬 Founder of ProSync, a T.I. community for mutual support among members  
+- 🎧 I enjoy reading, listening to podcasts, music, and I have a cat named Bixby  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
