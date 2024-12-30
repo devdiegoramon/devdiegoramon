@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Developer
 
-- 🎓 Student of Internet Systems, focused on Java Development  
+- 🎓 Student of Internet Systems, focused on Web Development
 - 💬 Founder of ProSync, a T.I. community for mutual support among members  
 - 🎧 I enjoy reading, listening to podcasts, music, and I have a cat named Bixby  
 
