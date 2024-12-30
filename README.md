@@ -17,7 +17,7 @@
   
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdiegoramon&theme=dark)](https://github.com/devdiegoramon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdiegoramon&hide=css&theme=dark)](https://github.com/devdiegoramon/github-readme-stats)
 
 ##
 
