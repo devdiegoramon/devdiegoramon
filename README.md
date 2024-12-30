@@ -1,6 +1,6 @@
 ## Olá!! Meu nome é Diego Ramon 👋
 
-- Sou um programador JAVA e ANGULAR
+- Desenvolvedor
 
 - 🎓 Estudante do curso Sistemas para Internet e voltado a Desenvolvimento Java
 - 💬 Idealizador da ProSync, uma comunidade de T.I. de ajuda mútua entre os membros
